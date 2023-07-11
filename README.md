@@ -26,8 +26,7 @@
 - Reveal the presence of clusters in the wine dataset and check if 3 cultivators are distinguishable in the dataset
 
 ## Working
-
-- Loading libraries
+### Loading libraries
 - library(tidyverse) #data manipulation 
 - library(cluster)  #clustering algorithms 
 - library(factoextra) #clustering visualization
