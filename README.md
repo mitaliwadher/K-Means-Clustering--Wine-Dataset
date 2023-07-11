@@ -21,11 +21,9 @@
 
 ## Problem Definition
 
-- Understand the different constituents and their proportion in wine used by each 
-cultivator.
+- Understand the different constituents and their proportion in wine used by each cultivator.
 
-- Reveal the presence of clusters in the wine dataset. We will check if 3 cultivators are 
-distinguishable in the dataset.
+- Reveal the presence of clusters in the wine dataset. We will check if 3 cultivators are distinguishable in the dataset.
 
 ## Working
 ![](https://github.com/mitaliwadher/K-Means-Clustering--Wine-Dataset/blob/main/assets/1.png)
