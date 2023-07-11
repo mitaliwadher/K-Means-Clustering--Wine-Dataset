@@ -150,7 +150,7 @@ aggregate(wine1, by=list(cluster=cluster_wine3$cluster), mean)
 
 #### There are 3 optimal clusters after running all the tests
 
-# Interpretation
+# Observations
 
 ## Cluster 1
 - High content- Proline, Flavanoids, Phenols, Alcohol and OD
@@ -166,7 +166,7 @@ aggregate(wine1, by=list(cluster=cluster_wine3$cluster), mean)
 - High content- Color Int, Malic acid, Non-Flavanoids Phenols and ACL
 - Low content- Proanth, Phenols, Hue, Flavanoids and OD
 
-# Observations
+# Interpretation 
 
 - We can point out that one cultivator uses a high amount of alcohol and other cultivator uses small amount of alcohol which could mean that one is a highly alcoholic and the latter is less alcoholic
 - We can conclude that all cultivators use different types of constituents in their wine making process and hence we have 3 definite clusters 
