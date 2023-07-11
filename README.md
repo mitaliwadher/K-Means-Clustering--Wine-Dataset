@@ -68,6 +68,9 @@ distance<- get_dist(wine1)
 distance
 fviz_dist(distance, gradient=list(low="blue", mid="white",high="red"))
 ```
+
+![](https://github.com/mitaliwadher/K-Means-Clustering--Wine-Dataset/blob/main/assets/Distance Graph.png)
+
 ## Performing K-Means
 ```
 cluster_wine2<- kmeans(wine1, centers=2, nstart= 25)
