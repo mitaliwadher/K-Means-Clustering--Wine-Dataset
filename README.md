@@ -2,9 +2,9 @@
 
 ## Introduction 
 
-- This data set consists of the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivators.
+- This data set consists of the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivators
   
-- The analysis determined the quantities of 13 constituents found in each of the three types of wines.
+- The analysis determined the quantities of 13 constituents found in each of the three types of wines
   
 - Number of samples: 178
 
@@ -21,9 +21,9 @@
 
 ## Problem Definition
 
-- Understand the different constituents and their proportion in wine used by each cultivator.
+- Understand the different constituents and their proportion in wine used by each cultivator
 
-- Reveal the presence of clusters in the wine dataset. We will check if 3 cultivators are distinguishable in the dataset.
+- Reveal the presence of clusters in the wine dataset and check if 3 cultivators are distinguishable in the dataset
 
 ## Working
 ![](https://github.com/mitaliwadher/K-Means-Clustering--Wine-Dataset/blob/main/assets/1.png)
