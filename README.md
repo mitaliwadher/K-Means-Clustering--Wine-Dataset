@@ -8,12 +8,9 @@
   
 - Number of samples: 178
 
-
-|             |          Dataset Attributes           ||
-
 |             |          Attributes           ||
-|---|---|
 |1) Alcohol |2) Malic acid|
+|---|---|
 |3) Ash |4) Alcalinity of ash|
 |5) Magnesium |6) Total phenols|
 |7) Flavanoids |8) Nonflavanoid phenols|
