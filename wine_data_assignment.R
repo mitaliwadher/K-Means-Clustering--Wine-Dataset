@@ -7,6 +7,7 @@
 #The analysis determined the quantities of 13 constituents 
 #found in each of the three types of wines.
 #Number of samples : 178
+
 #Dataset Attributes:
 
 #1) Alcohol
@@ -23,11 +24,11 @@
 #12) OD280/OD315 of diluted wines
 #13) Proline
 
-######Libraries####
+###### Loading Libraries####
 library(tidyverse) #data manipulation 
 library(cluster)  #clustering algorithms 
 library(factoextra) #clustering visualization
-library(corrplot)
+library(corrplot) #correlation plot
 library(gridExtra)
 library(GGally)
 library(knitr)
@@ -39,7 +40,7 @@ library(ggcorrplot)
 library(plotmo)
 library(gridExtra)
 
-######Working####
+###### Working ######
 
 #Read the data
 wine <- read.csv("C:/Users/wine.csv")
@@ -51,7 +52,7 @@ wine1<- na.omit(wine)
 dim(wine1)
 #we have 178 values and 14 columns 
 
-#we are removing the first column because we do not want the type of the wine scaled
+#Removing the first column as we do not want the type of the wine scaled
 wine1 <- scale(wine[-1])
 wine1
 dim(wine1)
