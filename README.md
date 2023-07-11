@@ -71,7 +71,7 @@ fviz_dist(distance, gradient=list(low="blue", mid="white",high="red"))
 
 ![](https://github.com/mitaliwadher/K-Means-Clustering--Wine-Dataset/blob/main/assets/Distance%20Graph)
 
-## Performing K-Means
+## Perform K-Means
 ```
 cluster_wine2<- kmeans(wine1, centers=2, nstart= 25)
 cluster_wine3<- kmeans(wine1, centers=3, nstart= 25)
