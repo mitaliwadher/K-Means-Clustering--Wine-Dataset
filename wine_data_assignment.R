@@ -42,7 +42,7 @@ library(gridExtra)
 ######Working####
 
 #Read the data
-wine <- read.csv("C:/Users/Mitali Wadher/OneDrive - Shri Vile Parle Kelavani Mandal/4- Predictive Analytics/wine.csv")
+wine <- read.csv("C:/Users/wine.csv")
 View(wine)
 
 
