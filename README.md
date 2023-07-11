@@ -168,6 +168,8 @@ aggregate(wine1, by=list(cluster=cluster_wine3$cluster), mean)
 
 # Interpretation 
 
+![](https://github.com/mitaliwadher/K-Means-Clustering--Wine-Dataset/blob/main/assets/8.png)
+
 - We can point out that one cultivator uses a high amount of alcohol and other cultivator uses small amount of alcohol which could mean that one is a highly alcoholic and the latter is less alcoholic
 - We can conclude that all cultivators use different types of constituents in their wine making process and hence we have 3 definite clusters 
 - Alcohol and Color Int are positively related so we can say that wines that have high alcohol content could have higher color and vica versa
