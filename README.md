@@ -25,8 +25,9 @@
 
 - Reveal the presence of clusters in the wine dataset and check if 3 cultivators are distinguishable in the dataset
 
-## Working
-### Loading libraries
 
+### Loading libraries
+![](https://github.com/mitaliwadher/K-Means-Clustering--Wine-Dataset/blob/main/assets/2.png)
+## Working
 
 ![](https://github.com/mitaliwadher/K-Means-Clustering--Wine-Dataset/blob/main/assets/1.png)
