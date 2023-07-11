@@ -1,5 +1,5 @@
 #Mitali Wadher
-########## Wine Data Set Information############
+########## Wine Data Set Information ############
 
 #These data are the results of a chemical analysis of wines 
 #grown in the same region in Italy but derived from three different cultivators.
