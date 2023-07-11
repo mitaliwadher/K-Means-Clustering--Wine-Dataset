@@ -69,7 +69,7 @@ distance
 fviz_dist(distance, gradient=list(low="blue", mid="white",high="red"))
 ```
 
-![](https://github.com/mitaliwadher/K-Means-Clustering--Wine-Dataset/blob/main/assets/Distance Graph.png)
+![](https://github.com/mitaliwadher/K-Means-Clustering--Wine-Dataset/blob/main/assets/Distance%20Graph)
 
 ## Performing K-Means
 ```
